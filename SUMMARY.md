@@ -6,7 +6,7 @@
 
 * [🗣 Project info](about-us/project-info.md)
 * [😎 Team info](about-us/team-info.md)
-* [Roadmap](about-us/roadmap.md)
+* [✅ Roadmap](about-us/roadmap.md)
 
 ## Games info
 
