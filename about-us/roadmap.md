@@ -2,12 +2,12 @@
 
 ## Q3 22
 
-* [x] Team assembly & original design
+* [x] [Team assembly](team-info.md) & original design
 * [x] Mint testing
-* [x] Website launch
+* [x] [Website ](https://soldobbies.com)launch
 * [ ] Public mint & secondary market listings
 * [ ] DAO
-* [ ] Launch [DCT token](broken-reference) & [NFT staking](../tokenomic/staking.md)
+* [ ] Launch [DCT token](../tokenomic/graphs-and-tables.md) & [NFT staking](../tokenomic/staking.md)
 * [ ] Launch Solana [lootboxes](../games-info/lootboxes.md)
 * [ ] Launch Solana [lucky tickets](../games-info/lucky-tickets.md)
 * [ ] Launch NEAR NFT collection
