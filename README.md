@@ -1,7 +1,5 @@
 # 🌟 Introduction
 
-Far far away, in the once prosperous kingdom of Blackwood, and now mired in murder and theft, cunning Dobbies rule the affairs. Although they look cute and harmless, be careful, walking the streets these bandits will easily pick your pockets. The best of the best have been ganged up to take over this dirty dirty town.
-
 ### Why project S.C.A.M. ?
 
 You no longer need to go to many sites and remember how to find them in order to play games and win valuable prizes. Now you can find everything in one place!&#x20;
@@ -17,3 +15,7 @@ C - Conveniencly
 A - Absolutely
 
 M - noMutable
+
+### Benefits?
+
+Play in games, win some NFTs, tokens or whitelists!
