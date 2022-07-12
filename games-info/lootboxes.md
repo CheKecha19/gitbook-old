@@ -25,7 +25,7 @@ For a modest fee, you get the opportunity to get **tokens**, like _**SOL**_ or _
 
 #### How it works?
 
-Each box will contain certain tokens (SOL/DCT, NEAR/DCT, USDC/DCT). \
+Each box will contain certain tokens (**SOL/DCT**, **NEAR/DCT**, **USDC/DCT**). \
 When you buy and open a lootbox, you have a chance to win a certain amount of tokens from the list above.
 
 ### NFT
