@@ -12,6 +12,6 @@ Many projects have already implemented what we offer. Yes it is. But there is on
 
 ### Benefits for players and holders?
 
-After analyzing potential and current competitors, we found out that the potential turnover of our project is able to reach $3,000,000 by the third month of operation, which means the distribution of more than $100,000 of the commission received as a reward to all our NFT stakers. <mark style="color:orange;">**Monthly!**</mark>
+After analyzing potential and current competitors, we found out that the potential turnover of our project is able to reach <mark style="color:red;">$3,000,000</mark> by the third month of operation, which means the distribution of more than <mark style="color:red;">$100,000</mark> of the commission received as a reward to all our NFT stakers. <mark style="color:orange;">**Monthly!**</mark>
 
-After the launch of the Eth part of our casino, we plan to reach a turnover of more than $15,000,000 monthly, which will increase the potential monthly profit of our casino to $450,000
+After the launch of the Eth part of our casino, we plan to reach a turnover of more than <mark style="color:red;">$15,000,000</mark> monthly, which will increase the potential monthly profit of our casino to <mark style="color:red;">$450,000</mark>
