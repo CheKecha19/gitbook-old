@@ -12,5 +12,4 @@ Many projects have already implemented what we offer. Yes it is. But there is on
 
 ### Benefits for players and holders?
 
-Play in games, stake dobbies, earn DCT, win some NFTs, tokens or whitelists!\
-All games in one place!
+After analyzing potential and current competitors, we found out that the potential turnover of our project is able to reach $3,000,000 by the third month of operation, which means the distribution of more than $100,000 of the commission received as a reward to all our NFT stakers. <mark style="color:orange;">**Monthly!**</mark>
